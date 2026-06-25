@@ -1,0 +1,87 @@
+id,nom,categorie,calories_kcal,proteines_g,lipides_g,glucides_g,unite
+1,Poulet (blanc),Viandes & Poissons,165,31.0,3.6,0.0,100g
+2,Boeuf (steak haché 5%),Viandes & Poissons,137,21.4,5.4,0.0,100g
+3,Porc (filet),Viandes & Poissons,143,22.4,5.9,0.0,100g
+4,Dinde (escalope),Viandes & Poissons,104,22.0,1.6,0.0,100g
+5,Saumon,Viandes & Poissons,208,20.0,13.4,0.0,100g
+6,Thon (frais),Viandes & Poissons,144,23.3,5.0,0.0,100g
+7,Crevettes,Viandes & Poissons,85,18.0,1.0,0.9,100g
+8,Cabillaud,Viandes & Poissons,82,18.0,0.7,0.0,100g
+9,Oeuf entier,Oeufs & Produits laitiers,155,13.0,11.0,1.1,100g
+10,Blanc d'oeuf,Oeufs & Produits laitiers,52,11.0,0.2,0.7,100g
+11,Lait entier,Oeufs & Produits laitiers,61,3.2,3.3,4.8,100g
+12,Lait demi-écrémé,Oeufs & Produits laitiers,46,3.3,1.5,4.8,100g
+13,Yaourt nature,Oeufs & Produits laitiers,59,3.8,3.0,4.7,100g
+14,Fromage blanc 0%,Oeufs & Produits laitiers,46,8.0,0.2,4.0,100g
+15,Mozzarella,Oeufs & Produits laitiers,280,18.0,22.0,2.2,100g
+16,Parmesan,Oeufs & Produits laitiers,431,38.0,29.0,0.0,100g
+17,Beurre,Oeufs & Produits laitiers,717,0.9,81.0,0.1,100g
+18,Crème fraîche épaisse,Oeufs & Produits laitiers,292,2.0,30.0,3.0,100g
+19,Riz blanc (cru),Féculents & Céréales,365,7.0,0.7,80.0,100g
+20,Riz complet (cru),Féculents & Céréales,351,8.0,2.8,73.0,100g
+21,Pâtes (crues),Féculents & Céréales,371,13.0,1.5,74.0,100g
+22,Pâtes complètes (crues),Féculents & Céréales,352,13.0,2.0,67.0,100g
+23,Pomme de terre,Féculents & Céréales,77,2.0,0.1,17.0,100g
+24,Patate douce,Féculents & Céréales,86,1.6,0.1,20.0,100g
+25,Farine de blé T55,Féculents & Céréales,364,10.0,1.0,76.0,100g
+26,Farine complète T150,Féculents & Céréales,340,13.0,2.5,65.0,100g
+27,Avoine (flocons),Féculents & Céréales,389,17.0,7.0,66.0,100g
+28,Pain de mie,Féculents & Céréales,265,8.0,3.2,49.0,100g
+29,Pain complet,Féculents & Céréales,247,9.0,3.4,44.0,100g
+30,Quinoa (cru),Féculents & Céréales,368,14.0,6.0,64.0,100g
+31,Lentilles (crues),Légumineuses,353,26.0,1.0,60.0,100g
+32,Pois chiches (crus),Légumineuses,364,19.0,6.0,61.0,100g
+33,Haricots rouges (crus),Légumineuses,337,24.0,1.4,61.0,100g
+34,Haricots blancs (crus),Légumineuses,333,23.0,1.0,60.0,100g
+35,Edamame,Légumineuses,122,11.0,5.0,9.0,100g
+36,Tomate,Légumes,18,0.9,0.2,3.5,100g
+37,Courgette,Légumes,17,1.2,0.3,2.7,100g
+38,Aubergine,Légumes,25,1.0,0.2,5.0,100g
+39,Poivron rouge,Légumes,31,1.0,0.3,6.0,100g
+40,Oignon,Légumes,40,1.1,0.1,9.3,100g
+41,Ail,Légumes,149,6.4,0.5,33.0,100g
+42,Carotte,Légumes,41,0.9,0.2,9.6,100g
+43,Brocoli,Légumes,34,2.8,0.4,6.6,100g
+44,Épinards,Légumes,23,2.9,0.4,3.6,100g
+45,Champignons de Paris,Légumes,22,3.1,0.3,3.3,100g
+46,Concombre,Légumes,15,0.7,0.1,2.9,100g
+47,Salade (laitue),Légumes,15,1.4,0.2,2.3,100g
+48,Chou-fleur,Légumes,25,1.9,0.3,5.0,100g
+49,Petits pois,Légumes,81,5.4,0.4,14.5,100g
+50,Maïs,Légumes,86,3.3,1.2,19.0,100g
+51,Pomme,Fruits,52,0.3,0.2,13.8,100g
+52,Banane,Fruits,89,1.1,0.3,22.8,100g
+53,Fraises,Fruits,32,0.7,0.3,7.7,100g
+54,Myrtilles,Fruits,57,0.7,0.3,14.5,100g
+55,Orange,Fruits,47,0.9,0.1,11.8,100g
+56,Citron,Fruits,29,1.1,0.3,9.3,100g
+57,Mangue,Fruits,60,0.8,0.4,15.0,100g
+58,Avocat,Fruits,160,2.0,14.7,1.8,100g
+59,Huile d'olive,Matières grasses,884,0.0,100.0,0.0,100g
+60,Huile de tournesol,Matières grasses,884,0.0,100.0,0.0,100g
+61,Huile de coco,Matières grasses,862,0.0,100.0,0.0,100g
+62,Noix,Oléagineux,654,15.2,65.2,13.7,100g
+63,Amandes,Oléagineux,575,21.0,49.0,22.0,100g
+64,Noisettes,Oléagineux,628,15.0,61.0,17.0,100g
+65,Cacahuètes,Oléagineux,567,26.0,49.0,16.0,100g
+66,Graines de chia,Oléagineux,486,17.0,31.0,42.0,100g
+67,Graines de lin,Oléagineux,534,18.0,42.0,29.0,100g
+68,Sucre blanc,Sucrants,400,0.0,0.0,100.0,100g
+69,Sucre roux,Sucrants,380,0.0,0.0,98.0,100g
+70,Miel,Sucrants,304,0.3,0.0,82.0,100g
+71,Sirop d'érable,Sucrants,260,0.0,0.0,67.0,100g
+72,Sel,Condiments & Épices,0,0.0,0.0,0.0,100g
+73,Poivre noir,Condiments & Épices,251,10.0,3.3,64.0,100g
+74,Paprika,Condiments & Épices,282,14.0,13.0,54.0,100g
+75,Curcuma,Condiments & Épices,354,8.0,10.0,65.0,100g
+76,Cumin,Condiments & Épices,375,18.0,22.0,44.0,100g
+77,Curry,Condiments & Épices,325,14.0,14.0,58.0,100g
+78,Sauce soja,Condiments & Épices,60,6.0,0.1,8.0,100g
+79,Vinaigre balsamique,Condiments & Épices,88,0.5,0.0,17.0,100g
+80,Moutarde,Condiments & Épices,66,4.4,3.6,6.4,100g
+81,Concentré de tomate,Condiments & Épices,82,4.3,0.5,15.5,100g
+82,Bouillon de volaille (cube),Condiments & Épices,258,18.0,12.0,22.0,100g
+83,Eau,Liquides,0,0.0,0.0,0.0,100g
+84,Lait de coco,Liquides,197,2.0,21.0,6.0,100g
+85,Crème de coco,Liquides,330,3.4,34.0,8.0,100g
+86,Vin blanc (cuisine),Liquides,70,0.1,0.0,0.6,100g

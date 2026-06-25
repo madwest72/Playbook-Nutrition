@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Le .htaccess sert à réécrire les URLs pour faire du REST propre
+# Apache ne comprend pas /api/ingredients/3 nativement (il chercherait un dossier "3")
+# Ces règles interceptent l'URL et redirigent vers le bon fichier PHP
+
+# ^ = début de l'URL   $ = fin   ([0-9]+) = capture l'id   $1 = l'id capturé
+# [L] = arrête de chercher d'autres règles   [QSA] = garde les autres paramètres d'URL
+
+# Avec id → fichier singulier (GET one / PUT / DELETE)
+RewriteRule ^api/ingredients/([0-9]+)/?$ api/ingredient.php?id=$1 [L,QSA]
+RewriteRule ^api/recettes/([0-9]+)/?$ api/recette.php?id=$1 [L,QSA]
+
+# Sans id → fichier pluriel (GET all / POST)
+RewriteRule ^api/ingredients/?$ api/ingredients.php [L,QSA]
+RewriteRule ^api/recettes/?$ api/recettes.php [L,QSA]

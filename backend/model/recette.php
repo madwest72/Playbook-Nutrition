@@ -8,7 +8,7 @@ class recette
     }
     public function createRecette($nom, $information, $instrution)
     {
-        $req = $this->bdd->prepare('INSERT INTO recette(nom, information, instrution) values(:nom, :information, :instrution');
+        $req = $this->bdd->prepare('INSERT INTO recette(nom, information, instrution) values(:nom, :information, :instrution)');
         $req->bindparam(':nom', $nom);
         $req->bindparam(':information', $information);
         $req->bindparam(':instrution', $instrution);
@@ -30,7 +30,7 @@ class recette
     }
     public function selectALLRecette()
     {
-        $req = $this->bdd->prepare('SELECT *FROM recette');
+        $req = $this->bdd->prepare('SELECT * FROM recette');
         $req->execute();
         return $req->fetchall(PDO::FETCH_ASSOC);
     }

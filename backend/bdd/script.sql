@@ -11,6 +11,7 @@ create table recette(
 
 create table ingredient(
     id int  auto_increment primary key,
+    nom VARCHAR(255) NOT NULL UNIQUE,
     calorie float,
     protein float,
     lipide float,
